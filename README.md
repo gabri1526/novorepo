@@ -18,3 +18,8 @@ graph LR
     C --> B
     B -- OK --> D[Previsualizar MPE]
     D --> E[Exportar PDF Limpo]
+### Tarefas pendentes:
+- [x] Clonar o repo
+- [ ] Engadir o logo
+- [ ] Traducir a galego
+> **Nota:** Este proxecto está en desenvolvemento activo.
