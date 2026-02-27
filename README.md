@@ -23,3 +23,4 @@ graph LR
 - [ ] Engadir o logo
 - [ ] Traducir a galego
 > **Nota:** Este proxecto está en desenvolvemento activo.
+![imaxe do cristo xacente de viveiro] (./cristoYacenteViveiro.jpg)
